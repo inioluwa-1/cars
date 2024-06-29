@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fish{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+.bmw{
+    width: 60px;
+    height: 50px;
+}
+.car{
+    font-size: 25px;
+    text-decoration: underline;
+    color: black;
+}
+.ca{
+    font-size: 25px;
+    text-decoration: underline;
+    color: white;
+}
+.ggh{
+    margin-left: 270px;
+}
+.dog{
+    display: flex;
+}
+.si{
+    margin-left: 350px;
+    cursor: pointer;
+}
+.first{
+    background-image: url('images/monkeytactics-.jpg');
+    background-size: cover;
+    height: 130vh;
+}
+.second{
+    background-image: url('images/pexels-ferid-faiqoglu-492300231-19240678.jpg');
+    background-size: cover;
+    height: 130vh;
+}
+.third{
+    background-image: url('images/pexels-jackgittoes-8766268.jpg');
+    background-size: cover;
+    height: 130vh;
+}
+.gold{
+    padding-top: 120px;
+}
+.lea{
+    border: 2px solid white;
+    color: white;
+    border-radius: 10px;
+    margin-left: 220px;
+}
+.lea:hover{
+    background-color: white;
+    color: black;
+}
+.le{
+    border: 2px solid white;
+    color: white;
+    border-radius: 10px;
+    margin-left: 335px;
+}
+.le:hover{
+    background-color: white;
+    color: black;
+}
+.ll{
+    border: 2px solid white;
+    color: white;
+    border-radius: 10px;
+    margin-left: 230px;
+}
+.ll:hover{
+    background-color: white;
+    color: black;
+}
+.bar{
+    margin-top: 90px;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.lewis{
+    width: 950px;
+    height: 100vh;
+}
+.flap{
+    display: flex;
+    gap: 10px;
+}
+.face{
+    width: 50px;
+    height: 40px;
+}
+.book{
+    width: 40px;
+    height: 30px;
+}
+.matt{
+margin-left: 100px;
+}
+.look{
+    margin-top: 90px;
+    padding-left: 80px;
+}
